@@ -120,12 +120,15 @@ Audio Response
 
 ---
 
-## Screenshot
+## Screenshots
 
-```
-![Output 1](output1.png)
-![Output 2](output2.PNG)
-```
+<p align="center">
+  <img src="output1.png" width="700">
+</p>
+
+<p align="center">
+  <img src="output2.png" width="700">
+</p>
 
 ---
 
