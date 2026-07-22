@@ -122,8 +122,6 @@ Audio Response
 
 ## Screenshot
 
-Add a screenshot of the running application below.
-
 ```
 ![Screenshot](output1.png)
 ![Screenshot](output2.png)
